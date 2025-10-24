@@ -37,7 +37,7 @@
 
 
 
-int main() {
+int main1() {
 
 	int nombreEntier = 15;
 	float nombreVirgule = 15.18f;
