@@ -24,7 +24,7 @@
 */
 
 
-int main() {
+int main2() {
 	
 
 	int nb = 3;
