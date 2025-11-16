@@ -35,7 +35,7 @@
 */
 
 
-int main() {
+int main3() {
 
 	int a = 5;
 	int b = 10;
